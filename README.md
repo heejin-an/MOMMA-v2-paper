@@ -19,13 +19,14 @@ This repository provides links to the archived code versions used in the MOMMA v
 ## FLPE Algorithms
 
 - BUSBOI: [Release](https://github.com/heejin-an/BUSBOI/releases/tag/momma-v2-paper)
+- HiVDI: [Release](https://github.com/heejin-an/h2ivdi/releases/tag/momma-v2-paper)
 - MetroMan: [Release](https://github.com/heejin-an/metroman/releases/tag/momma-v2-paper)
 - MetroMan consolidation: [Release](https://github.com/heejin-an/metroman_consolidation/releases/tag/momma-v2-paper)
 - MOMMA v1: [Release](https://github.com/heejin-an/momma/releases/tag/momma-v2-paper-version1)
 - MOMMA v2: [Release](https://github.com/heejin-an/momma/releases/tag/momma-v2-paper-version2)
-- HiVDI: [Release](https://github.com/heejin-an/h2ivdi/releases/tag/momma-v2-paper)
-- SIC4DVar: [Release](https://github.com/heejin-an/sic4dvar/releases/tag/momma-v2-paper)
 - SAD: [Release](https://github.com/heejin-an/sad/releases/tag/momma-v2-paper)
+- SIC4DVar: [Release](https://github.com/heejin-an/sic4dvar/releases/tag/momma-v2-paper)
+  
 - Consensus: [Release](https://github.com/heejin-an/consensus/releases/tag/momma-v2-paper)
 
 ## Post-processing
